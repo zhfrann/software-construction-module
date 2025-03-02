@@ -39,7 +39,7 @@
             this.input1.Name = "input1";
             this.input1.Size = new System.Drawing.Size(201, 26);
             this.input1.TabIndex = 0;
-            this.input1.Text = "Muhammad Zhafran Ilham";
+            this.input1.Text = "Muhammad Zhafran";
             this.input1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // button1
@@ -57,9 +57,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(47, 101);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 20);
+            this.label1.Size = new System.Drawing.Size(49, 20);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Halo ";
+            this.label1.Text = "Hallo ";
             // 
             // Form1
             // 

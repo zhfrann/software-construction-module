@@ -17,7 +17,7 @@ namespace tp_modul3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Halo " + input1.Text;
+            label1.Text = "Hallo " + input1.Text;
         }
     }
 }
